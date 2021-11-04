@@ -1,5 +1,5 @@
 import "./index.css";
-import LoginForm from "./components/form";
+import LoginForm from "./components/LoginForm";
 import App from "./App";
 import React from "react";
 import ReactDOM from "react-dom";
